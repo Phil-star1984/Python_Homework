@@ -8,5 +8,7 @@ elif mood == "depressed":
     print("Get help here: telephone counseling -GOOD MOOD-, 0172/29852 ")
 elif mood == "nervous":
     print("Smoke some pot to calm down, please.")
+elif mood == "insecure":
+    print("There will be better days.")
 else:
     print("Don't you have any feelings about this whole python thing?")
